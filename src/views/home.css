@@ -1,0 +1,43 @@
+.home-container {
+  width: 100%;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.home-text10 {
+  display: inline-block;
+}
+.home-text13 {
+  display: inline-block;
+  text-decoration: none;
+}
+.home-feature2-title {
+  display: inline-block;
+}
+.home-feature3-title {
+  display: inline-block;
+}
+.home-feature1-description {
+  display: inline-block;
+}
+.home-address {
+  display: inline-block;
+  text-align: center;
+}
+.home-phone1 {
+  display: inline-block;
+  text-align: center;
+}
+.home-phone2 {
+  display: inline-block;
+  text-align: center;
+}
+.home-phone3 {
+  display: inline-block;
+  text-align: center;
+}
+.home-email {
+  display: inline-block;
+  text-align: center;
+}
